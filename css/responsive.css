@@ -1,0 +1,1119 @@
+@media (min-width:320px) and (max-width:575px){
+    header .item {
+        border-right: none;
+        padding-left: 65px;
+    }
+ 
+    header .itemTop .iconTop{
+        left: 18px;
+    }
+    header .item i {
+        font-size: 20px;
+        left: 18px;
+    }
+    header .item p {
+        font-size: 14px;
+    }
+    header .icons {
+        text-align: left;
+        margin-top: 6px;
+    }
+   .navbar-brand img{
+       width: 80%;
+   }
+   .navbar-toggler {
+       font-size: 25px;
+       line-height: 0;
+    }
+    .navbar-toggler-icon {
+     display: inline;
+     color: white;
+     }
+    button:focus:not(:focus-visible) {
+        color: white;
+    }
+    .navbar .nav-item a {
+        border-bottom: 1px solid rgba(255, 255, 255, .5) !important;
+    }
+   #banner .overlay .info__box {
+	background: none;
+	width: auto;
+	padding: 0;
+    }
+    #banner .overlay .info__box p {
+        color: black !important;
+    }
+    #banner .overlay {
+        background: rgba(61, 45, 45, .3);
+        padding: 50px 0;
+    }
+    #banner .overlay .info__box h1 {
+        font-size: 32px;
+        color: black !important;
+        margin: 15px 0;
+    }
+    #banner .overlay .info__box a {
+        font-size: 13px;
+        color: black;
+        display: inline-block;
+        padding: 8px 16px;
+        border: 1px solid black;
+        margin-top: 32px;
+        margin-right: 20px;
+    }
+    #solution {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #solution .container .content__left .text h1 {
+        font-size: 32px;
+    }
+    #solution .container .content__left .text p {
+        font-size: 15px;
+    }
+    #solution .container .content__left .text {
+        padding: 10px 0;
+    }
+    #solution .container .content__right {
+        padding: 20px 15px;
+    }
+    #solution .container .content__right h2 {
+        font-size: 22px;
+    }
+    #solution .container .content__right .text {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    #solution .container .content__right a {
+        font-size: 14px;
+        padding: 10px 24px;
+        border: 1px solid black;
+        color: black;
+        margin-top: 0;
+    }
+    #chooseUs .container .content__right img {
+        height: auto;
+        position: static;
+        width: 100%;
+    }
+    #chooseUs {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    #chooseUs .container .content__left {
+        padding-left: 10px;
+    }
+    #chooseUs .container .content__left h2 {
+        font-size: 22px;
+    }
+    #chooseUs .container .content__left .text {
+        font-size: 14px;
+        padding-right: 0;
+    }
+    #chooseUs .container .content__left .list i {
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    #chooseUs .container .content__left .list .items {
+        padding-left: 55px;
+    }
+    #chooseUs .container .content__left .list h4 {
+        font-size: 16px;
+    }
+    #chooseUs .container .content__left .list p {
+        width: auto;
+        margin-top: 5px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-top: 20px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-bottom: 10px;
+    }
+    #offer {
+        margin-top: 30px;
+        padding-bottom: 30px;
+    }
+    #offer .container .top {
+        padding: 30px 10px;
+    }
+    #offer .container .top__left h2 {
+        font-size: 22px;
+        width: auto;
+    }
+    #offer .container .top__right .details {
+        font-size: 14px;
+        width: auto;
+        border-left: 0;
+        padding-left: 0;
+    }
+    #offer .bottom .item {
+        margin-bottom: 20px;
+        padding: 20px 0px;
+    }
+    #offer .bottom .item i {
+        font-size: 45px;
+    }
+    #team__member {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #team__member .top h2 {
+        font-size: 22px;
+    }
+    #team__member .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 10px;
+    }
+    #team__member .bottom {
+        margin-top: 30px;
+    }
+    #counter {
+        margin-bottom: 30px;
+    }
+    #counter .overlay {
+        padding: 30px;
+    }
+    #counter .item{
+        margin-bottom: 10px;
+    }
+    #counter .item h1 {
+        font-size: 42px;
+    }
+    #counter .item p {
+        font-size: 16px;
+    }
+    #faq {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #faq .container .content__left {
+        padding-left: 10px;
+    }
+    #faq .container .content__right img {
+        height: auto;
+        width: 100%;
+        position: static;
+        margin-top: 25px;
+    }
+    #faq .container .content__left h2 {
+        font-size: 22px;
+    }
+    #faq .container .content__left .text {
+        font-size: 14px;
+        padding: 0;
+        text-align: left !important;
+        padding-right: 0;
+    }
+    #faq .container .content__left .text p {
+        margin-bottom: 30px;
+    }
+    #faq .collapsed {
+        font-size: 15px;
+    }
+    #plan {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 25px 0;
+    }
+    #plan .top h2 {
+        font-size: 22px;
+    }
+    #plan .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 12px;
+        width: auto;
+    }
+    #plan .bottom {
+        margin-top: 30px;
+    }
+    #plan .item .top .text {
+        padding: 10px 0;
+    }
+    #plan .item .details {
+        padding: 0;
+    }
+    #plan .bottom a {
+        font-size: 14px;
+        color: black;
+        padding: 10px 25px;
+        border: 1px solid black;
+    }
+    #plan .bottom .item {
+        padding-bottom: 30px;
+    }
+    #client{
+        margin-bottom: 30px;
+    }
+    #client .top h2 {
+        font-size: 22px;
+    }
+    #client .top p {
+        font-size: 14px;
+        width: auto;
+    }
+    #client .top {
+        margin-bottom: 0px;
+    }
+    #client .details {
+        padding: 20px 20px;
+        margin-top: 30px;
+    }
+    #mission {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 50px 0;
+    }
+    #mission .container .content__right {
+        padding-left: 10px;
+    }
+    #mission .container .content__right h2 {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    #mission .container .content__right .text p {
+        margin-bottom: 10px;
+        line-height: 25px;
+    }
+    #mission .container .content__right .play {
+        margin-top: 0;
+    }
+    #news{
+        margin-bottom: 30px;
+    }
+    #news .top h2 {
+        font-size: 22px;
+    }
+    #news .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 10px;
+    }
+    #news .title h4 {
+        font-size: 22px;
+        padding: 10px;
+        text-align: center;
+    }
+    #news .date i {
+        color: #232323;
+        padding: 8px 7px;
+    }
+    #news .bottomText {
+        font-size: 14px;
+        padding: 15px 22px 12px;
+    }
+    #news .details {
+        margin-bottom: 10px;
+    }
+    footer .footer__top {
+        padding-top: 30px;
+    }
+    footer .info {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    footer .link {
+        padding: 0;
+    }
+    footer .link h3 {
+        margin-bottom: 25px;
+        font-size: 25px;
+        margin-top: 8px;
+    }
+    footer .link {
+        margin-top: 30px;
+    }
+    footer .link ul{
+        padding: 0;
+    }
+    footer .link ul li {
+        margin-bottom: 5px;
+    }
+    /* ===========================xxx============================ */
+}
+@media (min-width:576px) and (max-width:767px){
+    header .item {
+        border-right: none;
+        padding-left: 70px;
+    }
+    header .itemTop{
+        padding-left: 69px;
+    }
+    header .itemTop .iconTop{
+        left: 12px;
+    }
+    header .item i {
+        font-size: 30px;
+        left: 12px;
+        bottom: 7px;
+    }
+    header .item p {
+        font-size: 18px;
+    }
+    header .icons {
+        text-align: left;
+        font-size: 30px;
+    }
+    .navbar-toggler-icon {
+        display: inline;
+        color: white;
+        }
+       button:focus:not(:focus-visible) {
+           color: white;
+       }
+        .navbar-toggler {
+            font-size: 25px;
+            line-height: 0;
+        }
+    #banner .overlay .info__box {
+        background: transparent;
+        width: auto;
+        padding: 40px;
+    }
+    #banner .overlay {
+        padding: 30px 0;
+    }
+    #banner .overlay .info__box {
+        background: none;
+        width: auto;
+        padding: 0;
+        }
+        #banner .overlay .info__box p {
+            color: black !important;
+        }
+    #banner .overlay .info__box h1 {
+        font-size: 32px;
+        color: black !important;
+        margin: 15px 0;
+    }
+    #banner .overlay .info__box a {
+        font-size: 13px;
+        color: black;
+        display: inline-block;
+        padding: 8px 16px;
+        border: 1px solid black;
+        margin-top: 32px;
+        margin-right: 20px;
+    }
+    .navbar .nav-item a {
+        border-bottom: 1px solid rgba(255, 255, 255, .5) !important;
+    }
+    #solution {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #solution .container .content__left .text h1 {
+        font-size: 32px;
+    }
+    #solution .container .content__left .text p {
+        font-size: 15px;
+    }
+    #solution .container .content__left .text {
+        padding: 10px 0;
+    }
+    #solution .container .content__right {
+        padding: 20px 15px;
+    }
+    #solution .container .content__right h2 {
+        font-size: 22px;
+    }
+    #solution .container .content__right .text {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    #solution .container .content__right a {
+        font-size: 14px;
+        padding: 10px 24px;
+        border: 1px solid black;
+        color: black;
+        margin-top: 0;
+    }
+    #chooseUs .container .content__right img {
+        height: auto;
+        position: static;
+        width: 100%;
+    }
+    #chooseUs {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    #chooseUs .container .content__left {
+        padding-left: 10px;
+    }
+    #chooseUs .container .content__left h2 {
+        font-size: 22px;
+    }
+    #chooseUs .container .content__left .text {
+        font-size: 14px;
+        padding-right: 0;
+    }
+    #chooseUs .container .content__left .list i {
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    #chooseUs .container .content__left .list .items {
+        padding-left: 55px;
+    }
+    #chooseUs .container .content__left .list h4 {
+        font-size: 16px;
+    }
+    #chooseUs .container .content__left .list p {
+        width: auto;
+        margin-top: 5px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-top: 20px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-bottom: 10px;
+    }
+    #offer {
+        margin-top: 30px;
+        padding-bottom: 30px;
+    }
+    #offer .container .top {
+        padding: 30px 10px;
+    }
+    #offer .container .top__left h2 {
+        font-size: 22px;
+        width: auto;
+    }
+    #offer .container .top__right .details {
+        font-size: 14px;
+        width: auto;
+        border-left: 0;
+        padding-left: 0;
+    }
+    #offer .bottom .item {
+        margin-bottom: 20px;
+        padding: 20px 0px;
+    }
+    #offer .bottom .item i {
+        font-size: 45px;
+    }
+    #team__member {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #team__member .top h2 {
+        font-size: 22px;
+    }
+    #team__member .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 10px;
+    }
+    #team__member .bottom {
+        margin-top: 30px;
+    }
+    #counter {
+        margin-bottom: 30px;
+    }
+    #counter .overlay {
+        padding: 30px;
+    }
+    #counter .item{
+        margin-bottom: 10px;
+    }
+    #counter .item h1 {
+        font-size: 42px;
+    }
+    #counter .item p {
+        font-size: 16px;
+    }
+    #faq {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #faq .container .content__left {
+        padding-left: 10px;
+    }
+    #faq .container .content__right img {
+        height: auto;
+        width: 100%;
+        position: static;
+        margin-top: 25px;
+    }
+    #faq .container .content__left h2 {
+        font-size: 22px;
+    }
+    #faq .container .content__left .text {
+        font-size: 14px;
+        padding: 0;
+        text-align: left !important;
+        padding-right: 0;
+    }
+    #faq .container .content__left .text p {
+        margin-bottom: 30px;
+    }
+    #faq .collapsed {
+        font-size: 15px;
+    }
+    #plan {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 25px 0;
+    }
+    #plan .top h2 {
+        font-size: 22px;
+    }
+    #plan .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 12px;
+        width: auto;
+    }
+    #plan .bottom {
+        margin-top: 30px;
+    }
+    #plan .item .details {
+        padding: 40px 135px;
+    }
+    #plan .bottom a {
+        font-size: 14px;
+        color: black;
+        padding: 10px 25px;
+        border: 1px solid black;
+    }
+    #plan .bottom .item {
+        padding-bottom: 30px;
+    }
+    #client{
+        margin-bottom: 30px;
+    }
+    #client .top h2 {
+        font-size: 22px;
+    }
+    #client .top p {
+        font-size: 14px;
+        width: auto;
+    }
+    #client .top {
+        margin-bottom: 0px;
+    }
+    #client .details {
+        padding: 20px 20px;
+        margin-top: 30px;
+    }
+    #mission {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 50px 0;
+    }
+    #mission .container .content__right {
+        padding-left: 10px;
+    }
+    #mission .container .content__right h2 {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    #mission .container .content__right .text p {
+        margin-bottom: 10px;
+        line-height: 25px;
+    }
+    #mission .container .content__right .play {
+        margin-top: 0;
+    }
+    #news{
+        margin-bottom: 30px;
+    }
+    #news .top h2 {
+        font-size: 22px;
+    }
+    #news .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 10px;
+    }
+    #news .title h4 {
+        font-size: 22px;
+        padding: 10px;
+        text-align: center;
+    }
+    #news .date i {
+        color: #232323;
+        padding: 8px 7px;
+    }
+    #news .bottomText {
+        font-size: 14px;
+        padding: 15px 22px 12px;
+    }
+    #news .details {
+        margin-bottom: 10px;
+    }
+    footer .footer__top {
+        padding-top: 30px;
+    }
+    footer .info {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    footer .link {
+        padding: 0;
+    }
+    footer .link h3 {
+        margin-bottom: 25px;
+        font-size: 25px;
+        margin-top: 8px;
+    }
+    footer .link {
+        margin-top: 30px;
+    }
+    footer .link ul{
+        padding: 0;
+    }
+    footer .link ul li {
+        margin-bottom: 5px;
+    }
+      /* ===========================xxx============================ */
+}
+@media (min-width:768px) and (max-width:991px){
+    header .item {
+        border-right: none;
+        padding-left: 65px;
+    }
+    header .itemTop{
+        padding-left: 63px;
+    }
+    header .itemTop .iconTop{
+        left: 20px;
+    }
+    header .item i {
+        font-size: 20px;
+        left: 20px;
+    }
+    header .item p {
+        font-size: 14px;
+    }
+    header .icons {
+        text-align: left;
+        margin-top: 6px;
+    }
+   .navbar-brand img{
+       width: 80%;
+   }
+   .navbar-toggler-icon {
+    display: inline;
+    color: white;
+    }
+   button:focus:not(:focus-visible) {
+       color: white;
+   }
+    .navbar-toggler {
+        font-size: 25px;
+        line-height: 0;
+    }
+    .navbar .nav-item a {
+        border-bottom: 1px solid rgba(255, 255, 255, .5) !important;
+    }
+    #solution {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+    #solution .container .content__right {
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+    #chooseUs .container .content__right img {
+        height: auto;
+        position: static;
+        width: 100%;
+    }
+    #chooseUs {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    #chooseUs .container .content__left {
+        padding-left: 10px;
+    }
+    #chooseUs .container .content__left h2 {
+        font-size: 42px;
+    }
+    #chooseUs .container .content__left .text {
+        font-size: 16px;
+        padding: 31px 0;
+    }
+    #chooseUs .container .content__left .list i {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        top: 0px;
+    }
+    #chooseUs .container .content__left .list h4 {
+        font-size: 20px;
+    }
+    #chooseUs .container .content__left .list p {
+        width: auto;
+        margin-top: 5px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-top: 20px;
+    }
+    #chooseUs .container .content__left .list .items {
+        margin-bottom: 10px;
+    }
+    #chooseUs .container .content__left .list .items {
+        padding-left: 80px;
+    }
+    #offer .container .top__left h2 {
+        width: auto;
+        margin-bottom: 20px;
+    }
+    #offer .container .top {
+        padding: 60px 0px;
+    }
+    #offer .container .top__right .details {
+        width: auto;
+        border-left: none;
+        padding-left: 0;
+    }
+    #offer {
+        padding-bottom: 60px;
+    }
+    #offer .bottom .item p {
+        padding: 0px 20px;
+    }
+    #team__member {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    #team__member .bottom .item .text {
+        padding: 10px;
+    }
+    #team__member .bottom .item .overlay {
+        font-size: 100px;
+    }
+    #counter .overlay {
+        padding: 90px;
+    }
+    #counter .item{
+            margin-bottom: 20px;
+    }
+    #faq {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #faq .container .content__left {
+        padding-left: 10px;
+    }
+    #faq .container .content__right img {
+        height: auto;
+        width: 100%;
+        position: static;
+        margin-top: 25px;
+    }
+    #faq .container .content__left h2 {
+        font-size: 22px;
+    }
+    #faq .container .content__left .text {
+        font-size: 14px;
+        padding: 0;
+        text-align: left !important;
+        padding-right: 0;
+    }
+    #faq .container .content__left .text p {
+        margin-bottom: 30px;
+    }
+    #faq .collapsed {
+        font-size: 15px;
+    }
+    #plan {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 25px 0;
+    }
+    #plan .top h2 {
+        font-size: 22px;
+    }
+    #plan .top p {
+        font-size: 14px;
+        width: auto;
+        margin-top: 12px;
+        width: auto;
+    }
+    #plan .bottom {
+        margin-top: 30px;
+    }
+    #plan .item .details {
+        padding: 40px 135px;
+    }
+    #plan .bottom a {
+        font-size: 14px;
+        color: black;
+        padding: 10px 25px;
+        border: 1px solid black;
+    }
+    #plan .bottom .item {
+        padding-bottom: 30px;
+    }
+    #client .details {
+        padding: 25px 0px;
+        margin-top: 10px;
+    }
+    #client .details .right {
+        padding-right: 45px;
+        padding-top: 10px;
+    }
+    #client .details .right .coma {
+        top: -17px;
+        right: 19px;
+    }
+    #client .details .right h6 {
+        margin-top: 10px;
+    }
+    #client {
+        margin-bottom: 60px;
+    }
+    #mission {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        padding: 80px 0;
+    }
+    #mission .container .content__right h2 {
+        margin-top: 30px;
+    }
+    #news .title h4 {
+        font-size: 18px;
+        font-weight: 700;
+        padding: 14px 14px;;
+    }
+    #news .date i {
+        padding: 6px 4px;
+    }
+    #news .bottomText {
+        font-size: 16px;
+        line-height: 23px;
+        padding: 14px 19px 16px;
+    }
+    footer .footer__top {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    footer .footer__top img{
+        width: 50%;
+    }
+    footer .info {
+        margin-top: 25px;
+        margin-bottom: 25px;
+        font-size: 14px;
+        line-height: 23px;
+        padding-right: 112px;
+    }
+      /* ===========================xxx============================ */
+}
+@media (min-width:992px) and (max-width:1199px){
+
+    #chooseUs .container .content__right img {
+        height: 55%;
+        position: absolute;
+        top: 230px;
+        right: 0;
+    }
+    #chooseUs {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    #chooseUs .container .content__left {
+        padding-left: 10px;
+    }
+    #chooseUs .container .content__left h2 {
+        font-size: 42px;
+    }
+    #chooseUs .container .content__left .text {
+        font-size: 16px;
+        padding: 31px 0;
+    }
+    #chooseUs .container .content__left .list i {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        top: 0px;
+    }
+    #chooseUs .container .content__left .list h4 {
+        font-size: 20px;
+    }
+    #chooseUs .container .content__left .list p {
+        width: auto;
+        margin-top: 5px;
+    }
+    #offer .bottom .item p {
+        padding: 0px 18px;
+    }
+    #faq {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #faq .container .content__left {
+        padding-left: 10px;
+    }
+    #faq .container .content__right img {
+        height: auto;
+        width: 100%;
+        position: static;
+        margin-top: 72px;
+    }
+    #faq .container .content__left h2 {
+        font-size: 42px;
+    }
+    #faq .container .content__left .text {
+        font-size: 14px;
+        padding: 0;
+        text-align: left !important;
+        padding-right: 0;
+    }
+    #faq .container .content__left .text p {
+        margin-bottom: 30px;
+    }
+    #faq .collapsed {
+        font-size: 15px;
+    }
+    #client .details {
+        padding: 25px 0px;
+        margin-top: 10px;
+    }
+    #client .details .right {
+        padding-right: 45px;
+        padding-top: 10px;
+    }
+    #client .details .right .coma {
+        top: -17px;
+        right: 19px;
+    }
+    #client .details .right h6 {
+        margin-top: 10px;
+    }
+    #client {
+        margin-bottom: 60px;
+    }
+    footer .link h3 {   
+        font-size: 17px;
+        margin-bottom: 16px;
+    }
+    footer .info {
+        font-size: 14px;
+    }
+    footer span {
+        font-size: 16px;
+    }
+    footer .phone {
+        font-size: 25px;
+    }
+    footer .link ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+      /* ===========================xxx============================ */
+}
+@media (min-width:1200px) and (max-width:1399px){
+    #chooseUs .container .content__right img {
+        height: 55%;
+        position: absolute;
+        top: 230px;
+        right: 0;
+    }
+    #chooseUs {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    #chooseUs .container .content__left {
+        padding-left: 10px;
+    }
+    #chooseUs .container .content__left h2 {
+        font-size: 42px;
+    }
+    #chooseUs .container .content__left .text {
+        font-size: 16px;
+        padding: 31px 0;
+    }
+    #chooseUs .container .content__left .list i {
+        font-size: 20px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        top: 0px;
+    }
+    #chooseUs .container .content__left .list h4 {
+        font-size: 20px;
+    }
+    #chooseUs .container .content__left .list p {
+        width: auto;
+        margin-top: 5px;
+    }
+    #offer .bottom .item p {
+        padding: 0px 18px;
+    }
+    #faq {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #faq .container .content__left {
+        padding-left: 10px;
+    }
+    #faq .container .content__right img {
+        height: auto;
+        width: 100%;
+        position: static;
+        margin-top: 72px;
+    }
+    #faq .container .content__left h2 {
+        font-size: 42px;
+    }
+    #faq .container .content__left .text {
+        font-size: 14px;
+        padding: 0;
+        text-align: left !important;
+        padding-right: 0;
+    }
+    #faq .container .content__left .text p {
+        margin-bottom: 30px;
+    }
+    #faq .collapsed {
+        font-size: 15px;
+    }
+    #client .details {
+        padding: 25px 0px;
+        margin-top: 10px;
+    }
+    #client .details .right {
+        padding-right: 45px;
+        padding-top: 10px;
+    }
+    #client .details .right .coma {
+        top: -17px;
+        right: 19px;
+    }
+    #client .details .right h6 {
+        margin-top: 10px;
+    }
+    #client {
+        margin-bottom: 60px;
+    }
+    footer .link h3 {   
+        font-size: 17px;
+        margin-bottom: 16px;
+    }
+    footer .info {
+        font-size: 14px;
+    }
+    footer span {
+        font-size: 16px;
+    }
+    footer .phone {
+        font-size: 25px;
+    }
+    footer .link ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+      /* ===========================xxx============================ */
+}
